@@ -6,7 +6,7 @@ import com.example.coderswag.Model.Product
 object DataService {
 // cuando se como seleccionar my "listof"?
     val categoies = listOf(
-        Category("Shirts", "shirtimage"),
+        Category("SHIRTS", "shirtimage"),
         Category("HOODIES", "hoodieimage"),
         Category("HATS", "hatimage"),
         Category("DIGITAL", "digitalgoodsimage")
